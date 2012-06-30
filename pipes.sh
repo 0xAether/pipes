@@ -6,7 +6,7 @@
 
             declare -ar v=( [00]="\x82" [01]="\x8c" [03]="\x90"    ####
                             [10]="\x98" [11]="\x80" [12]="\x90"    #  Normal UTF-8 box characters.
-                            [21]="\x94" [22]="\x82" [23]="\x98"    #  (These are the default for they are supported almost everwhere.)
+                            [21]="\x94" [22]="\x82" [23]="\x98"    #  (These are the default for they are supported almost everywhere.)
                             [30]="\x94" [32]="\x8c" [33]="\x80" )  ####
 
           # declare -ar v=( [00]="\x83" [01]="\x8f" [03]="\x93"    ####
